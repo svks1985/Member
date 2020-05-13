@@ -8,3 +8,5 @@ Making sure that local repo goes out of sync. Oops.
 
 This is confusing.
 
+Getting a little hang of it on 05/13  @ 11:40 pm
+
